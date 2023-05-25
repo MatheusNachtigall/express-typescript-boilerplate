@@ -1,4 +1,4 @@
-# node-typescript-boilerplate
+# express-typescript-boilerplate
 
 ## Simple boilerplate generator using:
 
