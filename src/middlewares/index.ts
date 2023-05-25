@@ -1,1 +1,1 @@
-export * from "./log.middleware";
+export * from "./simpleRedirect.middleware";
